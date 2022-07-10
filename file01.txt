@@ -1,2 +1,2 @@
-update count=5 朱溢文
+update count=666 朱溢文
 
